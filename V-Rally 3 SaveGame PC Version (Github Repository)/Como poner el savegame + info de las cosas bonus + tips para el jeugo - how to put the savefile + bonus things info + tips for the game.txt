@@ -1,0 +1,73 @@
+Bien, dentro de la carpeta de V-Rally 3, (en donde lo instalaron), hay una sub-carpeta llamada
+"MC", en esta carpeta se guarda el progreso del jugador (los perfiles, las cosas hechas en el
+modo V-Rally, los tiempos en las etapas, etc).
+Para instalarlo, reemplacen el archivo ssave.dat original con el que yo les dejo en el RAR, y ya
+tendran los perfiles. Que son los siguientes:
+-DOMINIC TORETTO (Es el perfil con el que me pase el juego). Tiene todo desbloqueado (Coches bonus, 
+pistas de contrarreloj con mis records, el modo de retos compleatado junto con su añadido de crear
+tus propios retos y el Modo V-Rally completado (Aunque realmente no tiene fin, ya que se puede seguir
+jugando infinitamente)).
+-NESTOR KIRCHNER Y SUPERM ESTUDIOS (Son perfiles adicionales con los que no he hecho nada pero estan ahi
+para que si alguien, no se, quiere crearse un nuevo modo V-Rally en el juego o quiere batir mis tiempos,
+pues bienvenidos sean.
+
+Recuerden hacer una copia de seguridad del archivo original, recalco que este savegame es opcional, asi
+que tenganlo en cuenta.
+
+Sobre los coches bonus:
+-Seat Cordoba Repsol: Para desbloquearlo deben completar TODOS los retos del modo reto hasta la serie Michelin.
+Es bastante sencillo, al menos para mi. Es una version del Cordoba con una librea de Repsol, como el nombre dice.
+-Subaru Impreza WRX STI WRC 2000: Se desbloquea tras vencer en el campeonato de dos litros (basado en los World
+Rally Cars del WRC). Es, sin duda, el mas dificil de desbloquear de todos, ya que este campeonato transcurre
+en los tramos mas estrechos del juego, y es en estos donde los descalabros de los desarrolladores son mas rompe ortos que 
+nunca. Extremadamente dificil, pero no imposible. Basado en el que corrio en el Rally America del 2001.
+-Mitsubishi Lancer Evo VI.: Se desbloquea tras ganar el campenato de 1,6 litros (basado en los WRC Junior del 2002),
+algo menos dificil, pero no sin obstaculos que enfrentar. Basado en el Evo 6 con el Makkinen gano el WRC de 1999.
+-Toyota Corolla V-Rally: Es una simple variacion del Corolla normal, pero usa una librea de V-Rally en lugar de la normal.
+Se desbloquea estableciendo tiempos record en TODAS las pistas del juego, no solo las normales, sino tambien sus versiones
+invertidas. 
+
+Consejos del gameplay:
+-Colocar los ajustes graficos en el minimo, para evitar que los problemas de frame-rate no sean tan intensos.
+-Usar la camara en angulo vertical, para conseguir mas espacio de vista.
+-No modificar tanto los ajustes del coche (mecanicos), ya que entorpecera la jugabilidad aun mas.
+
+© 2022 nightr.l.u 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Well, inside the V-Rally 3 folder, (where you installed it), there is a sub-folder called
+"MC", in this folder the progress of the player is saved (the profiles, the things done in the
+V-Rally mode, the times in the stages, etc).
+To install it, replace the original ssave.dat file with the one I left in the RAR, and that's it
+They will have the profiles. Which are the following:
+-DOMINIC TORETTO (It's the profile with which I passed the game). It has everything unlocked (Bonus cars,
+time trial tracks with my records, the challenge mode completed along with its creation add-on
+your own challenges and completed V-Rally Mode (Although there really is no end, as you can follow
+playing endlessly)).
+-NESTOR KIRCHNER AND SUPERM ESTUDIOS (They are additional profiles with which I have not done anything but they are there
+so that if someone, I don't know, wants to create a new V-Rally mode in the game or wants to beat my times,
+so welcome.
+
+Remember to make a backup of the original file, I emphasize that this savegame is optional, so
+take it into account.
+
+About bonus cars:
+-Seat Cordoba Repsol: To unlock it you must complete ALL the challenges of the challenge mode until the Michelin series.
+It's pretty simple, at least for me. It is a version of the Cordoba with a Repsol livery, as the name says.
+-Subaru Impreza WRX STI WRC 2000: It is unlocked after winning the two-liter championship (based on the World
+WRC Rally Car). It is, without a doubt, the most difficult to unlock of all, since this championship takes place
+in the narrowest sections of the game, and it is in these where the disasters of the developers are more disruptive than
+never. Extremely difficult, but not impossible. Based on the one that ran in the 2001 Rally America.
+-Mitsubishi Lancer Evo VI.: It is unlocked after winning the 1.6 liter championship (based on the 2002 WRC Junior),
+somewhat less difficult, but not without obstacles to face. Based on the Evo 6 with the Makkinen it won the 1999 WRC.
+-Toyota Corolla V-Rally: It is a simple variation of the normal Corolla, but uses a V-Rally livery instead of the normal one.
+It is unlocked by setting record times on ALL the tracks in the game, not just the normal ones, but also their versions.
+inverted.
+
+Gameplay tips:
+-Set the graphics settings to the minimum, to avoid that the frame-rate problems are not so intense.
+-Use the camera in a vertical angle, to get more view space.
+-Do not modify the car settings (mechanics) so much, as it will hinder the gameplay even more.
+
+© 2022 nightr.l.u
